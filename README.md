@@ -1,1 +1,3 @@
-# transfer-matrix-method-final20
+# Transfer Matrix method for calculating dielectring coatings
+
+Your Writeup goes here
